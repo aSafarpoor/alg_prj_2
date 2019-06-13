@@ -1,0 +1,5 @@
+(black,black,green,red);(black,red,blue,red);(black,red,blue,green);(black,green,yellow,yellow);(black,yellow,yellow,black)
+(green,black,blue,green);(blue,green,yellow,orange);(blue,orange,red,orange);(yellow,orange,orange,orange);(yellow,orange,red,black)
+(blue,black,green,green);(yellow,green,orange,black);(red,black,yellow,green);(orange,green,green,green);(red,green,blue,black)
+(green,black,orange,red);(orange,red,green,orange);(yellow,orange,yellow,orange);(green,orange,blue,gray);(blue,gray,green,black)
+(orange,black,black,green);(green,green,black,blue);(yellow,blue,black,green);(blue,green,black,blue);(green,blue,black,black)
