@@ -38,10 +38,11 @@ bool fun(int in){
 		}
 	}
 	return false;
-}/*
+}
 int checker(){
-	if(pow(2,n)1=string_.size())
+	if(pow(2,n)!=string_.size())
 		return 0;
+	
 	string_=string_+string_;
 	for(int i=0;i<pout;i++)used_number[i]=0;
 	for(int i=0;i<pout;i++){
@@ -51,7 +52,7 @@ int checker(){
 	int z=1;
 	for(int i=0;i<pout;i++)if(used_number[i]==0)z-=1;
 	return max(0,z);
-}*/
+}
 int main(){
 	
 	cin>>n;
@@ -60,6 +61,6 @@ int main(){
 	for(int i=0;i<pout;i++)used_number[i]=0;
 	fun(n);
 	cout<<string_<<endl<<string_.size()<<endl;
-//	cout<<checker();
+	cout<<checker();
 }
 
